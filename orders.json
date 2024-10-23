@@ -1,0 +1,36 @@
+[
+    {
+        "_id": 1,
+        "customerId": 101,
+        "productIds": [
+            1,
+            2
+        ],
+        "amount": 2300
+    },
+    {
+        "_id": 2,
+        "customerId": 102,
+        "productIds": [
+            2
+        ],
+        "amount": 800
+    },
+    {
+        "_id": 3,
+        "customerId": 101,
+        "productIds": [
+            1
+        ],
+        "amount": 1500
+    },
+    {
+        "_id": 4,
+        "customerId": 103,
+        "productIds": [
+            1,
+            3
+        ],
+        "amount": 2100
+    }
+]
